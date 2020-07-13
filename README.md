@@ -1,3 +1,3 @@
 # releaserepo
 
-This is work after v3.0 was released
+This is additional work after v3.0 was released
