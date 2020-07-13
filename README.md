@@ -1,3 +1,3 @@
 # releaserepo
 
-This is additional work after v3.0 was released
+This is the fix to v3.1 which will become v3.1.1
