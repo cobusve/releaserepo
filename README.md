@@ -1,2 +1,3 @@
 # releaserepo
-Repo to play with release branching strategies
+
+This is the first working copy of this repo
