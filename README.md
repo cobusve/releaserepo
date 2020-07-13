@@ -1,3 +1,3 @@
 # releaserepo
 
-This is the first working copy of this repo
+This is work after v3.0 was released
